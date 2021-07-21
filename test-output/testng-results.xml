@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-19T23:34:26 IST" name="Suite" finished-at="2021-07-19T23:34:54 IST" duration-ms="28287">
+    <groups>
+    </groups>
+    <test started-at="2021-07-19T23:34:26 IST" name="Test" finished-at="2021-07-19T23:34:54 IST" duration-ms="28287">
+      <class name="PracticeTest.landing">
+        <test-method is-config="true" signature="config()[pri:0, instance:PracticeTest.landing@7671cb68]" started-at="2021-07-19T23:34:26 IST" name="config" finished-at="2021-07-19T23:34:32 IST" duration-ms="5555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method signature="homePageNavigation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:PracticeTest.landing@7671cb68]" started-at="2021-07-19T23:34:32 IST" name="homePageNavigation" finished-at="2021-07-19T23:34:54 IST" duration-ms="22675" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[manjunath]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chigare]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[586128]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageNavigation -->
+      </class> <!-- PracticeTest.landing -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
